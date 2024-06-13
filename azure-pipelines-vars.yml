@@ -1,4 +1,4 @@
 variables:
   appList: test1
-  currentApp: test1
+  currentApp: simple_site1
   ifCompile: true
