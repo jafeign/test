@@ -1,0 +1,4 @@
+variables:
+  appList: test1
+  currentApp: test1
+  ifCompile: true
