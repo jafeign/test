@@ -1,4 +1,4 @@
 variables:
-  appList: simple_site1
+  appList: ceshi上述按,simple_site1
   currentApp: 阿三大苏打
   ifCompile: true
