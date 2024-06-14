@@ -1,0 +1,4 @@
+variables:
+  appList: ''
+  currentApp: simple_site1
+  ifCompile: true
