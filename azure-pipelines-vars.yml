@@ -1,4 +1,4 @@
 variables:
   appList: 阿三大苏打,ceshi上述按,test1,在在在在在在,驱蚊器,simple_site1,1213
-  currentApp: simple_site5
+  currentApp: test-site5
   ifCompile: true
