@@ -1,4 +1,4 @@
 variables:
   currentApp: ''
-  appList: 'asdasdasd'
+  appList: ''
   ifCompile: false
