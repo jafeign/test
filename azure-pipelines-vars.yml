@@ -1,4 +1,4 @@
 variables:
-  currentApp: 'APP1'
-  appList: 'ceshi上述按,在在在在在在,vueapp,驱蚊器,1213'
-  ifCompile: false
+  currentApp: 'APP2'
+  appList: 'ceshi上述按,在在在在在在,vueapp,APP1,驱蚊器,1213'
+  ifCompile: true
