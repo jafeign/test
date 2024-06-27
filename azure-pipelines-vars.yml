@@ -1,4 +1,4 @@
 variables:
   currentApp: 'APP11'
-  appList: 'ceshi0624,APP6,APP9,APP7,vueapp5,vueapp8,APP10,APP4,APP5'
+  appList: 'ceshi0624,APP6,APP9,APP7,vueapp5,vueapp8,APP10,APP4'
   ifCompile: true
