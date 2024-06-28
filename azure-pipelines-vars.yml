@@ -1,4 +1,0 @@
-variables:
-  currentApp: 'APP12'
-  appList: 'ceshi0624,APP6,APP9,APP11,APP7,vueapp5,vueapp8,APP10,APP13,APP14,APP4,APP15,APP12,APP5,test111'
-  ifCompile: true
