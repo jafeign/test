@@ -1,4 +1,0 @@
-variables:
-  currentApp: 'APP12'
-  appList: 'vueapp8,APP13,APP14'
-  ifCompile: true
