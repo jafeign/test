@@ -1,0 +1,4 @@
+variables:
+  currentApp: 'app1'
+  appList: ''
+  ifCompile: false
